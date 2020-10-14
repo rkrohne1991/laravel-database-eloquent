@@ -25,8 +25,8 @@ Laravel Eloquent One To Many Relationship CRUD
 - deleting data
 
 
-#Laravel Eloquent Many To Many Relationship CRUD
-manytomany  
+#manytomany  
+Laravel Eloquent Many To Many Relationship CRUD  
 
 - creating a new Laravel Project
 - database migrations
