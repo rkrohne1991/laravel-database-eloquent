@@ -10,4 +10,16 @@ Laravel Eloquent One To One Relationship CRUD
 - setting up relations
 - creating data for user
 - updating data
-r- eading and deleting data
+- reading and deleting data
+
+
+#onetomany
+Laravel Eloquent One To Many Relationship CRUD
+
+- creating a new Laravel Project
+- database migrations
+- relationships and mass assignment
+- inserting data
+- reading data
+- updating data
+- deleting data
