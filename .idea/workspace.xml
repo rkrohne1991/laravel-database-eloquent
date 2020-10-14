@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="109217c2-61b3-4264-861d-609f12e25f2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/onetomany/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/.styleci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Http/Middleware/TrustHosts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Models/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/config/cors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/database/migrations/2020_10_13_212252_create_posts_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/public/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/resources/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onetomany/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1irXgYf0REWrkK8rNiHxdjsWv8u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="109217c2-61b3-4264-861d-609f12e25f2f" name="Default Changelist" comment="" />
+      <created>1602666795512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602666795512</updated>
+      <workItem from="1602666796572" duration="335000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding Laravel Eloquent One To One Relationship CRUD">
+      <created>1602666917625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602666917625</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding Laravel Eloquent One To Many Relationship CRUD">
+      <created>1602667148360</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602667148360</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding Laravel Eloquent One To One Relationship CRUD" />
+    <MESSAGE value="Adding Laravel Eloquent One To Many Relationship CRUD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Laravel Eloquent One To Many Relationship CRUD" />
+  </component>
+</project>
