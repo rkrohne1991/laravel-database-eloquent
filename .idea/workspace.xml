@@ -20,14 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="109217c2-61b3-4264-861d-609f12e25f2f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/laravel-database-eloquent-crud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel-database-eloquent-crud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphic/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphic/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphic/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/onetoone/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -155,6 +158,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -173,6 +182,7 @@
       <updated>1602666795512</updated>
       <workItem from="1602666796572" duration="938000" />
       <workItem from="1602668370023" duration="63000" />
+      <workItem from="1602668472011" duration="3506000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Laravel Eloquent One To One Relationship CRUD">
       <created>1602666917625</created>
@@ -209,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602667494273</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Sorting directory">
+      <created>1602668498263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602668498263</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,12 +249,13 @@
     <MESSAGE value="Adding Laravel Eloquent One To Many Relationship CRUD" />
     <MESSAGE value="Adding Laravel Eloquent Many To Many Relationship CRUD" />
     <MESSAGE value="README.md update" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md update" />
+    <MESSAGE value="Sorting directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sorting directory" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="338" key="Vcs.Push.Dialog.v2" timestamp="1602667495738">
+    <state x="560" y="338" key="Vcs.Push.Dialog.v2" timestamp="1602668500501">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="560" y="338" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1602667495738" />
+    <state x="560" y="338" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1602668500501" />
   </component>
 </project>
