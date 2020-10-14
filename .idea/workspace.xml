@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="109217c2-61b3-4264-861d-609f12e25f2f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/onetomany/.editorconfig" afterDir="false" />
@@ -155,5 +173,11 @@
     <MESSAGE value="Adding Laravel Eloquent One To One Relationship CRUD" />
     <MESSAGE value="Adding Laravel Eloquent One To Many Relationship CRUD" />
     <option name="LAST_COMMIT_MESSAGE" value="Adding Laravel Eloquent One To Many Relationship CRUD" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="338" key="Vcs.Push.Dialog.v2" timestamp="1602667363540">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="560" y="338" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1602667363540" />
   </component>
 </project>

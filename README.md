@@ -2,8 +2,8 @@
 #Multiple tasks with Laravel Database - Eloquent CRUD
 
 
-#onetoone
-#Laravel Eloquent One To One Relationship CRUD
+#onetoone  
+Laravel Eloquent One To One Relationship CRUD
 
 - creating a new laravel project with migrations
 - database configuration and migration
@@ -13,8 +13,8 @@
 - reading and deleting data
 
 
-#onetomany
-#Laravel Eloquent One To Many Relationship CRUD
+#onetomany  
+Laravel Eloquent One To Many Relationship CRUD
 
 - creating a new Laravel Project
 - database migrations
@@ -26,7 +26,7 @@
 
 
 #Laravel Eloquent Many To Many Relationship CRUD
-#manytomany
+manytomany  
 
 - creating a new Laravel Project
 - database migrations
