@@ -39,7 +39,7 @@ Laravel Eloquent Many To Many Relationship CRUD
 
 
 #polymorphic  
-Laravel Eloquent Polymorphic CRUD  
+Laravel Eloquent Polymorphic Relationship CRUD  
 
 - creating a new Laravel Project
 - database migrations
@@ -50,3 +50,7 @@ Laravel Eloquent Polymorphic CRUD
 - deleting data
 - assigning data
 - updating data
+
+
+#polymorphicmanytomany  
+Laravel Eloquent Polymorphic Many To Many Relationship CRUD   
