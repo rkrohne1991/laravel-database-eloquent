@@ -49,8 +49,15 @@ Laravel Eloquent Polymorphic Relationship CRUD
 - updating data
 - deleting data
 - assigning data
-- updating data
 
 
 #polymorphicmanytomany  
 Laravel Eloquent Polymorphic Many To Many Relationship CRUD   
+
+- creating a new Laravel Project
+- database migrations
+- relationships and mass assignment
+- inserting data
+- reading data
+- updating data
+- deleting data
